@@ -7,9 +7,8 @@
 
   <img src="https://i.imgur.com/xgJAU8u.png" alt="drawing" width="600"/>
   
-  #### [Download](https://github.com/paul-shuvo/currency-converter/releases)
   ### Install
-  Markie is still under development. You can download the latest version from the releases page.
+  Markie is still under development. You can download the latest version from the [releases page](https://github.com/paul-shuvo/Markie/releases/tag/v1.0.0).
   <h3>Themes</h3>
   <div>
       <img src="https://i.imgur.com/xgJAU8u.png" alt="drawing" width="300"/>
